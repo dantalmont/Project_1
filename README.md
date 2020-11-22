@@ -1,5 +1,8 @@
-# Project 1: Trip Reel
+# Trip Reel
 A mobile movie app that will run in the browser and feature dynamically updated HTML, CSS, and JavaScript with data from Omdb and Utelly API.
+
+## Deployment
+deployment link: [HERE](https://dantalmont.github.io/Trip-Reel/)
 
 ## Criteria
 ```
